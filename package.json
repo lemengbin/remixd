@@ -39,7 +39,7 @@
     "serve": "7.0.0",
     "stdout": "0.0.3",
     "watch": "^1.0.2",
-    "web3": "1.0.0-beta.27",
+    "web3": "git+https://github.com/lemengbin/web3.git#1.0.0-beta.27",
     "websocket": "^1.0.24"
   },
   "python": {
